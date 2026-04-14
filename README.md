@@ -46,6 +46,14 @@ Raw Data
 
 ---
 
+## Interactive Dashboard
+
+Explore the live interactive Plotly dashboard here:
+
+**[Launch Interactive Scatter Dashboard](https://islam-abdel-halem.github.io/end-to-end-ecommerce-data-pipeline/)**
+
+---
+
 ## Dataset
 
 The original `Sales-Data-Analysis.csv` dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data) and is not included in this repository due to licensing and/or size considerations.
