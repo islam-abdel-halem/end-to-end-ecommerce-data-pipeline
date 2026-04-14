@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
+[![Deploy to GitHub Pages](https://github.com/islam-abdel-halem/end-to-end-ecommerce-data-pipeline/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/islam-abdel-halem/end-to-end-ecommerce-data-pipeline/actions/workflows/deploy-pages.yml)
 
 A production-style end-to-end Python data engineering and analytics pipeline for validating, processing, modeling, analyzing, and visualizing e-commerce transaction data.
 
@@ -19,7 +20,7 @@ A production-style end-to-end Python data engineering and analytics pipeline for
 * CLI entrypoint for orchestrating the full pipeline
 * Centralized configuration management via `config.yaml`
 * Unit testing for validation logic
-
+* Automated deployment of interactive dashboards to GitHub Pages via GitHub Actions
 ---
 
 ## Tech Stack
